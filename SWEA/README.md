@@ -44,9 +44,13 @@
 
 
 
-
-
 ## D2
+
+[1204.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13zo1KAAACFAYh&categoryId=AV13zo1KAAACFAYh&categoryType=CODE) [최빈수 구하기](./1204.py)
+
+[1284.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV189xUaI8UCFAZN&categoryId=AV189xUaI8UCFAZN&categoryType=CODE) [수도 요금 경쟁](./1284.py)
+
+[1285.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18-stqI8oCFAZN&categoryId=AV18-stqI8oCFAZN&categoryType=CODE) [아름이의 돌 던지기](./1285.py)
 
 
 
