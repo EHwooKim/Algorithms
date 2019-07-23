@@ -1,5 +1,14 @@
-x = 10
+test = int(input())
 
-while x > 0:
-    print(x)
-    x -= 1
+
+line_count = int(input()):
+
+for i in range(line_count):
+    line = []
+    
+
+
+
+line =[]
+alphabet = input()
+count = int(input())
