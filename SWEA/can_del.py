@@ -1,3 +1,5 @@
-x = ['1','2','3','4']
-x.remove('2')
-print(x)
+x = 10
+
+while x > 0:
+    print(x)
+    x -= 1

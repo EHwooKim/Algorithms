@@ -52,6 +52,10 @@
 
 [1285.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18-stqI8oCFAZN&categoryId=AV18-stqI8oCFAZN&categoryType=CODE) [아름이의 돌 던지기](./1285.py)
 
+[1288.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18_yw6I9MCFAZN&categoryId=AV18_yw6I9MCFAZN&categoryType=CODE) [새로운 불면증 치료법](./1288.py)
+
+[1928.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PR4DKAG0DFAUq&categoryId=AV5PR4DKAG0DFAUq&categoryType=CODE) [Base64 Decoder](./1928/py)
+
 
 
 ## D3
