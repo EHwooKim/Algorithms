@@ -60,9 +60,11 @@
 
 
 
-## /D3
+## D3
 
 [1545.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWvzGUKKPVwDFASy&categoryId=AWvzGUKKPVwDFASy&categoryType=CODE&&&)[홀수 피라미드](./8016.py)
+
+[1206.](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh)[View](./1206.py)
 
 
 
