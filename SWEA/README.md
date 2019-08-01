@@ -68,3 +68,13 @@
 
 
 
+## Learn - Programming - Intermediate
+
+[4828.](https://www.swexpertacademy.com/main/learn/course/lectureProblemViewer.do) [min max](./4828.py)
+
+[4831.](https://www.swexpertacademy.com/main/learn/course/lectureProblemViewer.do) [전기버스](./4831.py)
+
+[4834.](https://www.swexpertacademy.com/main/learn/course/lectureProblemViewer.do) [숫자 카드](./4834.py)
+
+[4835.](https://www.swexpertacademy.com/main/learn/course/lectureProblemViewer.do) [구간합](./4835.py)
+
