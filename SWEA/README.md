@@ -58,6 +58,12 @@
 
 [1945.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pl0Q6ANQDFAUq&categoryId=AV5Pl0Q6ANQDFAUq&categoryType=CODE) [간단한 소인수분해](./1945.py)
 
+[1926.](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PTeo6AHUDFAUq&categoryId=AV5PTeo6AHUDFAUq&categoryType=CODE) [간단한 369게임](./1926.py)
+
+[2005.](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P0-h6Ak4DFAUq&categoryId=AV5P0-h6Ak4DFAUq&categoryType=CODE) [파스칼의 삼각형](./2005.py)
+
+[1989.](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PyTLqAf4DFAUq&categoryId=AV5PyTLqAf4DFAUq&categoryType=CODE) [초심자의 회문 검사](./1989.py)
+
 
 
 ## D3
