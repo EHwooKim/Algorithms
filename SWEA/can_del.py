@@ -1,3 +1,3 @@
-x= [1, 2, 3, 4, 5]
-for i in x:
-    print(i, end = ' ')
+grade = ['A+', 'A0', 'A-', 'B+', 'B0', 'B-', 'C+', 'C0', 'C-', 'D0']
+grade.reverse()
+print(grade)

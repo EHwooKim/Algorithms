@@ -64,6 +64,10 @@
 
 [1989.](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PyTLqAf4DFAUq&categoryId=AV5PyTLqAf4DFAUq&categoryType=CODE) [초심자의 회문 검사](./1989.py)
 
+[1983.](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PwGK6AcIDFAUq&categoryId=AV5PwGK6AcIDFAUq&categoryType=CODE) [조교의 성적 매기기](./1983.py)
+
+
+
 
 
 ## D3
