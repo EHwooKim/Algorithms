@@ -1,3 +1,2 @@
-grade = ['A+', 'A0', 'A-', 'B+', 'B0', 'B-', 'C+', 'C0', 'C-', 'D0']
-grade.reverse()
-print(grade)
+x='1111000011111&111001111011111'
+print(x.count('1'*4)-x.count('1'*5))
