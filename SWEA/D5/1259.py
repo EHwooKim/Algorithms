@@ -15,15 +15,14 @@ for t in range(1, T + 1):
 
     for one in arr:
         result = []
-        result.append(one)
+        result.extend(one)
         for i in range(n):
             for two in arr:
-                if result[-1][1] == two[0]:
-                    result.append(two)
-        if len(result) == n:
+                if result[-1] == two[0]:
+                    result.extend(two)
+        if len(result) == 2 * n:
             break
 
     print('#{}'.format(t), end=' ')  # 출력
-    for item in result:
-        print(*item, end=' ')
-    print()
+    print(*result)
+
