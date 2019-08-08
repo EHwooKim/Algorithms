@@ -52,8 +52,8 @@
 | ------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ | ------------------------------ |
 | [4828.](https://www.swexpertacademy.com/main/learn/course/lectureProblemViewer.do) | [min max](./LPI/4828.py)   | [4831.](https://www.swexpertacademy.com/main/learn/course/lectureProblemViewer.do) | [전기버스](./LPI/4831.py)      |
 | [4834.](https://www.swexpertacademy.com/main/learn/course/lectureProblemViewer.do) | [숫자 카드](./LPI/4834.py) | [4835.](https://www.swexpertacademy.com/main/learn/course/lectureProblemViewer.do) | [구간합](./LPI/4835.py)        |
-| [4836.]()                                                    | [색칠하기](./LPI/4836.py)  | [4837.]()                                                    | [부분집합의 합](./LPI/4837.py) |
-| [4839.]()                                                    | [이진 탐색](./LPI/4839.py) | [4843.]()                                                    | [특별한 정렬](./LPI/4843.py)   |
+| [4836.](https://www.swexpertacademy.com/main/learn/course/lectureProblemViewer.do) | [색칠하기](./LPI/4836.py)  | [4837.](https://www.swexpertacademy.com/main/learn/course/lectureProblemViewer.do) | [부분집합의 합](./LPI/4837.py) |
+| [4839.](https://www.swexpertacademy.com/main/learn/course/lectureProblemViewer.do) | [이진 탐색](./LPI/4839.py) | [4843.](https://www.swexpertacademy.com/main/learn/course/lectureProblemViewer.do) | [특별한 정렬](./LPI/4843.py)   |
 
 
 
