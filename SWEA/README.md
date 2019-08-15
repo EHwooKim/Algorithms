@@ -27,6 +27,10 @@
 | [1946.](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PmkDKAOMDFAUq&categoryId=AV5PmkDKAOMDFAUq&categoryType=CODE) | [간단한 압축 풀기](./D2/1946.py)          | [1954.](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq) | [달팽이 숫자](./D2/1954.py)                         |
 | [1984.](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pw_-KAdcDFAUq&categoryId=AV5Pw_-KAdcDFAUq&categoryType=CODE) | [중간 평균값 구하기](./D2/1984.py)        | [1986.](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PxmBqAe8DFAUq&categoryId=AV5PxmBqAe8DFAUq&categoryType=CODE) | [지그재그 숫자](./D2/1986.py)                       |
 | [2001.](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq) | [파리 퇴치](./D2/2001.py)                 | [1979.](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PuPq6AaQDFAUq&categoryId=AV5PuPq6AaQDFAUq&categoryType=CODE) | [어디에 단어가 들어갈 수 있을까](./D2/1979.py) 10/7 |
+| [1974.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq) | [스도쿠 검증](./D2/1974.py)               | [1959.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpoFaAS4DFAUq&categoryId=AV5PpoFaAS4DFAUq&categoryType=CODE) | [두 개의 숫자열](./D2/1959.py)                      |
+| [1976.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PttaaAZIDFAUq) | [시각 덧셈](./D2/1976.py)                 | [1961.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pq-OKAVYDFAUq) | [숫자 배열 회전](./D2/1961.py)                      |
+| [1966.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PrmyKAWEDFAUq) | [숫자를 정렬하자](./D2/1966.py)           | [1970.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PsIl6AXIDFAUq&categoryId=AV5PsIl6AXIDFAUq&categoryType=CODE) | [쉬운 거스름돈](./D2/1970.py)                       |
+|                                                              |                                           |                                                              |                                                     |
 
 ## D3
 
@@ -57,7 +61,9 @@
 
 
 
-
+| 문제                                                         | 코드                | 문제 | 코드 |
+| ------------------------------------------------------------ | ------------------- | ---- | ---- |
+| [4012.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH&categoryId=AWIeUtVakTMDFAVH&categoryType=CODE) | [요리사](./4012.py) |      |      |
 
 
 
