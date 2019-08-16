@@ -34,10 +34,22 @@
 
 ## D3
 
-| 문제                                                         | 코드                          | 문제                                                         | 코드                 |
-| ------------------------------------------------------------ | ----------------------------- | ------------------------------------------------------------ | -------------------- |
-| [8016.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWvzGUKKPVwDFASy&categoryId=AWvzGUKKPVwDFASy&categoryType=CODE&&&) | [홀수 피라미드](./D3/8016.py) | [1206.](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh) | [View](./D3/1206.py) |
-| [1209.](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13_BWKACUCFAYh&categoryId=AV13_BWKACUCFAYh&categoryType=CODE) | [Sum](./D3/1209.py)           | [1221.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14jJh6ACYCFAYD&categoryId=AV14jJh6ACYCFAYD&categoryType=CODE) | [GNS](./D3/1221.py)  |
+| 문제                                                         | 코드                                 | 문제                                                         | 코드                                   |
+| ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------------ | -------------------------------------- |
+| [8016.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWvzGUKKPVwDFASy&categoryId=AWvzGUKKPVwDFASy&categoryType=CODE&&&) | [홀수 피라미드](./D3/8016.py)        | [1206.](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh) | [View](./D3/1206.py)                   |
+| [1209.](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13_BWKACUCFAYh&categoryId=AV13_BWKACUCFAYh&categoryType=CODE) | [Sum](./D3/1209.py)                  | [1221.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14jJh6ACYCFAYD&categoryId=AV14jJh6ACYCFAYD&categoryType=CODE) | [GNS](./D3/1221.py)                    |
+| [1215.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14QpAaAAwCFAYi) | [회문1](./D3/1215.py)                | [1216.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14Rq5aABUCFAYi&categoryId=AV14Rq5aABUCFAYi&categoryType=CODE) | [회문2](./D3/1216.py)                  |
+| [4522.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWO6Oao6N4QDFAWw&categoryId=AWO6Oao6N4QDFAWw&categoryType=CODE) | [세상의 모든 팰린드롬](./D3/4522.py) | [4579.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQAz7IqAH8DFAWh&categoryId=AWQAz7IqAH8DFAWh&categoryType=CODE) | [세상의 모든 팰린드롬 2](./D3/4579.py) |
+|                                                              |                                      |                                                              |                                        |
+
+## D4
+
+| 문제                                                         | 코드                                 | 문제 | 코드 |
+| ------------------------------------------------------------ | ------------------------------------ | ---- | ---- |
+| [4408.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcJ2sapZMDFAV8&categoryId=AWNcJ2sapZMDFAV8&categoryType=CODE) | [자기 방으로 돌아가기](./D4/4408.py) |      |      |
+|                                                              |                                      |      |      |
+
+
 
 
 
@@ -58,6 +70,9 @@
 | [4834.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg) | [숫자 카드](./LPI/4834.py) | [4835.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg) | [구간합](./LPI/4835.py)        |
 | [4836.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVF-WqqecDFAWg) | [색칠하기](./LPI/4836.py)  | [4837.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVF-WqqecDFAWg) | [부분집합의 합](./LPI/4837.py) |
 | [4839.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVF-WqqecDFAWg) | [이진 탐색](./LPI/4839.py) | [4843.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVF-WqqecDFAWg) | [특별한 정렬](./LPI/4843.py)   |
+| [4861.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVGOEKqeoDFAWg#) | [회문](./LPI/4861.py)      | [4864.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVGOEKqeoDFAWg#) | [문자열 비교](./LPI/4864.py)   |
+| [4865.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVGOEKqeoDFAWg#) | [글자수](./LPI/4865.py)    |                                                              |                                |
+|                                                              |                            |                                                              |                                |
 
 
 
