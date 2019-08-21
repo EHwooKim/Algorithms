@@ -44,10 +44,10 @@
 
 ## D4
 
-| 문제                                                         | 코드                                 | 문제 | 코드 |
-| ------------------------------------------------------------ | ------------------------------------ | ---- | ---- |
-| [4408.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcJ2sapZMDFAV8&categoryId=AWNcJ2sapZMDFAV8&categoryType=CODE) | [자기 방으로 돌아가기](./D4/4408.py) |      |      |
-|                                                              |                                      |      |      |
+| 문제                                                         | 코드                                 | 문제                                                         | 코드                    |
+| ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------------ | ----------------------- |
+| [4408.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcJ2sapZMDFAV8&categoryId=AWNcJ2sapZMDFAV8&categoryType=CODE) | [자기 방으로 돌아가기](./D4/4408.py) | [1210.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE) | [Ladder1](./D4/1210.py) |
+|                                                              |                                      |                                                              |                         |
 
 
 
@@ -79,6 +79,10 @@
 | 문제                                                         | 코드                | 문제 | 코드 |
 | ------------------------------------------------------------ | ------------------- | ---- | ---- |
 | [4012.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH&categoryId=AWIeUtVakTMDFAVH&categoryType=CODE) | [요리사](./4012.py) |      |      |
+
+```python
+import sys; sts.stdin = open('(1214)input.txt','r')
+```
 
 
 
