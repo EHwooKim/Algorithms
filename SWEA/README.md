@@ -62,17 +62,28 @@
 
 
 
+## D6
+
+| 문제                                                         | 코드                     | 문제 | 코드 |
+| ------------------------------------------------------------ | ------------------------ | ---- | ---- |
+| [1267.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18TrIqIwUCFAZN&categoryId=AV18TrIqIwUCFAZN&categoryType=CODE) | [작업순서](./D6/1267.py) |      |      |
+
+
+
+
+
 ## Learn - Programming - Intermediate
 
-| 문제                                                         | 코드                       | 문제                                                         | 코드                           |
-| ------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ | ------------------------------ |
-| [4828.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg) | [min max](./LPI/4828.py)   | [4831.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg) | [전기버스](./LPI/4831.py)      |
-| [4834.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg) | [숫자 카드](./LPI/4834.py) | [4835.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg) | [구간합](./LPI/4835.py)        |
-| [4836.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVF-WqqecDFAWg) | [색칠하기](./LPI/4836.py)  | [4837.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVF-WqqecDFAWg) | [부분집합의 합](./LPI/4837.py) |
-| [4839.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVF-WqqecDFAWg) | [이진 탐색](./LPI/4839.py) | [4843.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVF-WqqecDFAWg) | [특별한 정렬](./LPI/4843.py)   |
-| [4861.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVGOEKqeoDFAWg#) | [회문](./LPI/4861.py)      | [4864.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVGOEKqeoDFAWg#) | [문자열 비교](./LPI/4864.py)   |
-| [4865.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVGOEKqeoDFAWg#) | [글자수](./LPI/4865.py)    |                                                              |                                |
-|                                                              |                            |                                                              |                                |
+| 문제                                                         | 코드                             | 문제                                                         | 코드                           |
+| ------------------------------------------------------------ | -------------------------------- | ------------------------------------------------------------ | ------------------------------ |
+| [4828.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg) | [min max](./LPI/4828.py)         | [4831.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg) | [전기버스](./LPI/4831.py)      |
+| [4834.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg) | [숫자 카드](./LPI/4834.py)       | [4835.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg) | [구간합](./LPI/4835.py)        |
+| [4836.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVF-WqqecDFAWg) | [색칠하기](./LPI/4836.py)        | [4837.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVF-WqqecDFAWg) | [부분집합의 합](./LPI/4837.py) |
+| [4839.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVF-WqqecDFAWg) | [이진 탐색](./LPI/4839.py)       | [4843.](https://www.swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVF-WqqecDFAWg) | [특별한 정렬](./LPI/4843.py)   |
+| [4861.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVGOEKqeoDFAWg#) | [회문](./LPI/4861.py)            | [4864.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVGOEKqeoDFAWg#) | [문자열 비교](./LPI/4864.py)   |
+| [4865.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVGOEKqeoDFAWg#) | [글자수](./LPI/4865.py)          | [4869.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVHzyqqe8DFAWg#) | [종이붙이기](./LPI/4869.py)    |
+| [4866.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVHzyqqe8DFAWg#) | [괄호검사](./LPI/4866.py)        | [4871.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVHzyqqe8DFAWg#) | [그래프 경로](./LPI/4871.py)   |
+| [4873.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVHzyqqe8DFAWg#) | [반복문자 지우기](./LPI/4873.py) |                                                              |                                |
 
 
 
