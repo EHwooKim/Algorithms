@@ -47,7 +47,7 @@
 | 문제                                                         | 코드                                 | 문제                                                         | 코드                    |
 | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------------ | ----------------------- |
 | [4408.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcJ2sapZMDFAV8&categoryId=AWNcJ2sapZMDFAV8&categoryType=CODE) | [자기 방으로 돌아가기](./D4/4408.py) | [1210.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE) | [Ladder1](./D4/1210.py) |
-|                                                              |                                      |                                                              |                         |
+| [1220.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD&categoryId=AV14hwZqABsCFAYD&categoryType=CODE) | [Magnetic](./D4/1220.py)             |                                                              |                         |
 
 
 
