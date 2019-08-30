@@ -1,25 +1,21 @@
 T = int(input())
-
 for t in range(1, T + 1):
     N, K = map(int, input().split())
-    N_list = []
-    for n in range(N):
-        N_list.append(list(map(int, input().split())))
-    
-    reuslt_1 = ''
-    for n in range(N):
-        for num in map(str, N_list[n]):
-            reuslt_1 += num 
-        reuslt_1 += '&'
-    
-    result_2 = ''
-    for n in range(N):
-        for m in range(N):
-            result_2 += str(N_list[m][n])
-        result_2 += '&'
-    count = reuslt_1.count('1'*K) + result_2.count('1'*K)  
-    if K < N: count -= reuslt_1.count('1'*(K + 1)) + result_2.count('1'*(K + 1))
-    
+    arr = [list(map(int, input().split())) for _ in range(N)]
+    count = 0
 
-    
-    print(f'#{t} {count}')
+    for i in range(N):
+        r_sum = c_sum = 0
+        for j in range(N):
+            if arr[i][j]:
+                r_sum += 1
+            else: 
+                count += (r_sum == K)
+                r_sum = 0
+            if arr[j][i]:
+                c_sum += 1
+            else: 
+                count += (c_sum == K)
+                c_sum = 0
+        count += (c_sum == K) + (r_sum == K)
+    print('#{} {}'.format(t, count))
