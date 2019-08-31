@@ -1,26 +1,23 @@
 N = int(input())
 color = []
 for _ in range(3):
-    color.extend(sorted(list(map(int, input().split()))))
-ruler = list(range(0, N + 1))
-L,R = 0, N
+    color.extend(list(map(int, input().split())))
+ruler = list(range(N + 1))
+L,R = 0, N  
+
 while color:
-    M = (L + R) / 2
-    color_left = color.pop(0)
-    color_right = color.pop(0)
-
-    if color_left == color_right: continue
-
-    color_mid = (color_left + color_right) / 2
-    if color_mid <= M:
+    MID = (L + R) / 2  
+    c1 = color.pop(0)  
+    c2 = color.pop(0) 
+    if c1 == c2: continue
+    c_mid = (c1 + c2) / 2  
+    if c_mid <= MID: 
         for i in range(len(color)):
-            if color[i] < color_mid:
-                color[i] += (color_mid - color[i]) * 2
-        L = color_mid
-    elif M < color_mid:
+            if color[i] < c_mid:
+                color[i] += (c_mid - color[i]) * 2          L = c_mid 
+    elif MID < c_mid:
         for i in range(len(color)):
-            if color_mid < color[i]:
-                color[i] -= (color[i] - color_mid) * 2
-        R = color_mid
+            if c_mid < color[i]:
+                color[i] -= (color[i] - c_mid) * 2
+        R = c_mid
 print(R-L)
-
