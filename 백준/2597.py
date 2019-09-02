@@ -14,7 +14,8 @@ while color:
     if c_mid <= MID: 
         for i in range(len(color)):
             if color[i] < c_mid:
-                color[i] += (c_mid - color[i]) * 2          L = c_mid 
+                color[i] += (c_mid - color[i]) * 2
+        L = c_mid 
     elif MID < c_mid:
         for i in range(len(color)):
             if c_mid < color[i]:
