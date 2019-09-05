@@ -17,9 +17,9 @@ for i in range(10):
 cand = []
 used = [0]*5
 paper = [25, 16, 9, 4, 1]
+p = [5, 4, 3, 2, 1]
 
 
 calc(0, 275, total) # cand에 넓이에 따라 가능한 경우 수 다 구하고
 cand.sort(key = lambda x :sum(x))
 pprint.pprint(cand)
-
