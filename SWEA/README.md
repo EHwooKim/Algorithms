@@ -44,16 +44,17 @@
 | [5356.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO&categoryId=AWVWgkP6sQ0DFAUO&categoryType=CODE) | [의석이의 세로로 말해요](./D3/5356.py) | [2805.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB&categoryId=AV7GLXqKAWYDFAXB&categoryType=CODE) | [농작물 수확하기](./D3/2805.py)           |
 | [1493.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b-QGqADMBBASw&categoryId=AV2b-QGqADMBBASw&categoryType=CODE) | [수의 새로운 연산](./D3/1493.py)       | [6485.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWczm7QaACgDFAWn&categoryId=AWczm7QaACgDFAWn&categoryType=CODE) | [삼성시의 버스 노선](./D3/6485.py)        |
 | [4615.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQmA4uK8ygDFAXj&categoryId=AWQmA4uK8ygDFAXj&categoryType=CODE) | [재미있는 오셀로 게임](./D3/4615.py)   | [6190.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWcPjEuKAFgDFAU4&categoryId=AWcPjEuKAFgDFAU4&categoryType=CODE) | [정곤이의 단조 증가하는 수](./D3/6190.py) |
-|                                                              |                                        |                                                              |                                           |
+| [1240.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15FZuqAL4CFAYD&categoryId=AV15FZuqAL4CFAYD&categoryType=CODE) | [단순 2진 암호코드](./D3/1240.py)      |                                                              |                                           |
 
 ## D4
 
-| 문제                                                         | 코드                                 | 문제                                                         | 코드                     |
-| ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------------ | ------------------------ |
-| [4408.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcJ2sapZMDFAV8&categoryId=AWNcJ2sapZMDFAV8&categoryType=CODE) | [자기 방으로 돌아가기](./D4/4408.py) | [1210.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE) | [Ladder1](./D4/1210.py)  |
-| [1220.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD&categoryId=AV14hwZqABsCFAYD&categoryType=CODE) | [Magnetic](./D4/1220.py)             | [1224.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14tDX6AFgCFAYD&categoryId=AV14tDX6AFgCFAYD&categoryType=CODE) | [계산기3](./D4/1224.py)  |
-| [1238.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15B1cKAKwCFAYD&categoryId=AV15B1cKAKwCFAYD&categoryType=CODE) | [Contact](./D4/1238.py)              | [1258.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN&categoryId=AV18LoAqItcCFAZN&categoryType=CODE) | [행렬찾기](./D4/1258.py) |
-| [6109.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWbrg9uabZsDFAWQ&categoryId=AWbrg9uabZsDFAWQ&categoryType=CODE) | [추억의 2048게임](./D4/6109.py)      |                                                              |                          |
+| 문제                                                         | 코드                                  | 문제                                                         | 코드                              |
+| ------------------------------------------------------------ | ------------------------------------- | ------------------------------------------------------------ | --------------------------------- |
+| [4408.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcJ2sapZMDFAV8&categoryId=AWNcJ2sapZMDFAV8&categoryType=CODE) | [자기 방으로 돌아가기](./D4/4408.py)  | [1210.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE) | [Ladder1](./D4/1210.py)           |
+| [1220.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD&categoryId=AV14hwZqABsCFAYD&categoryType=CODE) | [Magnetic](./D4/1220.py)              | [1224.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14tDX6AFgCFAYD&categoryId=AV14tDX6AFgCFAYD&categoryType=CODE) | [계산기3](./D4/1224.py)           |
+| [1238.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15B1cKAKwCFAYD&categoryId=AV15B1cKAKwCFAYD&categoryType=CODE) | [Contact](./D4/1238.py)               | [1258.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN&categoryId=AV18LoAqItcCFAZN&categoryType=CODE) | [행렬찾기](./D4/1258.py)          |
+| [6109.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWbrg9uabZsDFAWQ&categoryId=AWbrg9uabZsDFAWQ&categoryType=CODE) | [추억의 2048게임](./D4/6109.py)       | [4366.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWMeRLz6kC0DFAXd&categoryId=AWMeRLz6kC0DFAXd&categoryType=CODE) | [정식이의 은행업무](./D4/4366.py) |
+| [4613.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQl9TIK8qoDFAXj&categoryId=AWQl9TIK8qoDFAXj&categoryType=CODE) | [러시아 국기 같은 깃발](./D4/4613.py) |                                                              |                                   |
 
 
 
@@ -96,6 +97,14 @@
 | [5102.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVIoJqqfYDFAWg) | [노드의 거리](./LPI/5102.py)     | [5108.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVJ1r6qfkDFAWg) | [숫자 추가](./LPI/5108.py)          |
 | [5110.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVJ1r6qfkDFAWg) | [수열 합치기](./LPI/5110.py)     | [5120.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVJ1r6qfkDFAWg) | [암호](./LPI/5120.py)               |
 | [5122.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVJ1r6qfkDFAWg) | [수열 편집](./LPI/5122.py)       |                                                              |                                     |
+
+## Learn - Programming - Adcanced
+
+| 문제                                                         | 코드                    | 문제                                                         | 코드                     |
+| ------------------------------------------------------------ | ----------------------- | ------------------------------------------------------------ | ------------------------ |
+| [5185.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYDLaK1kMDFAVT) | [이진수](./LPA/5185.py) | [5186.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYDLaK1kMDFAVT) | [이진수2](./LPA/5186.py) |
+
+
 
 
 

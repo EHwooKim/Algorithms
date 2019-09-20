@@ -17,7 +17,7 @@ def setValue(x, y, lst, val):
             visit[tx][ty] += val
             tx, ty = tx + dx[d], ty + dy[d]
 
-def backtrack(k, n): # k: 현재 카메라
+def backtrack(k, n): # k: 현재 카메라 cctv[k]
     global MIN
     if k == n:
         cnt = 0
@@ -27,7 +27,7 @@ def backtrack(k, n): # k: 현재 카메라
                     cnt += 1
         MIN = min(MIN, cnt)
     else:
-        x, y, t = cctv[k]
+        x, y, t = cctv[k] # k번째 카메라의 위치와 종류
         for lst in dir[t]:
             setValue(x, y, lst, 1)
 
