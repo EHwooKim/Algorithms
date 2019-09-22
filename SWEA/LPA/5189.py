@@ -1,10 +1,8 @@
 def go(k, left, total, used):
     global min_num
-    if total > min_num:return
+    if total > min_num: return
     if k == N-1:
-        total += arr[left][0]
-        min_num = min(total, min_num)
-        return
+        min_num = min(total + arr[left][0], min_num); return
     for i in range(N):
         if used & (1<<i): continue
         go(k+1, i, total+arr[left][i], used|(1<<i))
