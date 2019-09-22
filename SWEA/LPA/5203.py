@@ -6,14 +6,11 @@ def check(arr):
 T = int(input())
 for t in range(1, T + 1):
     card = list(map(int, input().split()))
-    player = [[0]*10, [0]*10]
-    switch = 1
-    winner = 0
-    for num in card:
-        p = player[switch] 
-        p[num] += 1
-        if check(p):
-            winner = switch + 1
-            break
+    p =[[0]*10, [0]*10]
+    switch = winner = 0    
+    for c in card:
+        p[switch][c] += 1
+        if check(p[switch]):
+            winner = switch + 1; break
         switch ^= 1
     print('#{} {}'.format(t, winner))
