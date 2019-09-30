@@ -55,6 +55,7 @@
 | [1238.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15B1cKAKwCFAYD&categoryId=AV15B1cKAKwCFAYD&categoryType=CODE) | [Contact](./D4/1238.py)               | [1258.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN&categoryId=AV18LoAqItcCFAZN&categoryType=CODE) | [행렬찾기](./D4/1258.py)          |
 | [6109.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWbrg9uabZsDFAWQ&categoryId=AWbrg9uabZsDFAWQ&categoryType=CODE) | [추억의 2048게임](./D4/6109.py)       | [4366.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWMeRLz6kC0DFAXd&categoryId=AWMeRLz6kC0DFAXd&categoryType=CODE) | [정식이의 은행업무](./D4/4366.py) |
 | [4613.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQl9TIK8qoDFAXj&categoryId=AWQl9TIK8qoDFAXj&categoryType=CODE) | [러시아 국기 같은 깃발](./D4/4613.py) | [1865.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LuHfqDz8DFAXc&categoryId=AV5LuHfqDz8DFAXc&categoryType=CODE) | [동철이의 일 분배](./D4/1865.py)  |
+| [1486.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b7Yf6ABcBBASw&categoryId=AV2b7Yf6ABcBBASw&categoryType=CODE) | [장훈이의 높은 선반](./D4/1486.py)    |                                                              |                                   |
 
 
 
@@ -100,13 +101,14 @@
 
 ## Learn - Programming - Adcanced
 
-| 문제                                                         | 코드                           | 문제                                                         | 코드                       |
-| ------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------ | -------------------------- |
-| [5185.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYDLaK1kMDFAVT) | [이진수](./LPA/5185.py)        | [5186.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYDLaK1kMDFAVT) | [이진수2](./LPA/5186.py)   |
-| [5188.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYDrI61lYDFAVT) | [최소합](./LPA/5188.py)        | [5189.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYDrI61lYDFAVT#) | [전자카트](./LPA/5189.py)  |
-| [5201.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYEGw61n8DFAVT#) | [컨테이너 운반](./LPA/5201.py) | [5202.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYEGw61n8DFAVT) | [화물 도크](./LPA/5202.py) |
-| [5203.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYEGw61n8DFAVT) | [베이비진 게임](./LPA/5203.py) | [5204.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYFsQq11kDFAVT#) | [병합정렬](./LPA/5204.py)  |
-|                                                              |                                |                                                              |                            |
+| 문제                                                         | 코드                           | 문제                                                         | 코드                            |
+| ------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------ | ------------------------------- |
+| [5185.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYDLaK1kMDFAVT) | [이진수](./LPA/5185.py)        | [5186.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYDLaK1kMDFAVT) | [이진수2](./LPA/5186.py)        |
+| [5188.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYDrI61lYDFAVT) | [최소합](./LPA/5188.py)        | [5189.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYDrI61lYDFAVT#) | [전자카트](./LPA/5189.py)       |
+| [5201.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYEGw61n8DFAVT#) | [컨테이너 운반](./LPA/5201.py) | [5202.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYEGw61n8DFAVT) | [화물 도크](./LPA/5202.py)      |
+| [5203.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYEGw61n8DFAVT) | [베이비진 게임](./LPA/5203.py) | [5204.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYFsQq11kDFAVT#) | [병합정렬](./LPA/5204.py)       |
+| [5205.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYFsQq11kDFAVT) | [퀵 정렬](./LPA/5205.py)       | [5207.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYFsQq11kDFAVT) | (./LPA/5207.py)                 |
+| [5208.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYGf7K180DFAVT#) | [전기버스2](./LPA/5208.py)     | [5209.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYGf7K180DFAVT#) | [최소 생산 비용](./LPA/5209.py) |
 
 
 
