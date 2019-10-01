@@ -48,14 +48,15 @@
 
 ## D4
 
-| 문제                                                         | 코드                                  | 문제                                                         | 코드                              |
-| ------------------------------------------------------------ | ------------------------------------- | ------------------------------------------------------------ | --------------------------------- |
-| [4408.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcJ2sapZMDFAV8&categoryId=AWNcJ2sapZMDFAV8&categoryType=CODE) | [자기 방으로 돌아가기](./D4/4408.py)  | [1210.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE) | [Ladder1](./D4/1210.py)           |
-| [1220.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD&categoryId=AV14hwZqABsCFAYD&categoryType=CODE) | [Magnetic](./D4/1220.py)              | [1224.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14tDX6AFgCFAYD&categoryId=AV14tDX6AFgCFAYD&categoryType=CODE) | [계산기3](./D4/1224.py)           |
-| [1238.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15B1cKAKwCFAYD&categoryId=AV15B1cKAKwCFAYD&categoryType=CODE) | [Contact](./D4/1238.py)               | [1258.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN&categoryId=AV18LoAqItcCFAZN&categoryType=CODE) | [행렬찾기](./D4/1258.py)          |
-| [6109.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWbrg9uabZsDFAWQ&categoryId=AWbrg9uabZsDFAWQ&categoryType=CODE) | [추억의 2048게임](./D4/6109.py)       | [4366.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWMeRLz6kC0DFAXd&categoryId=AWMeRLz6kC0DFAXd&categoryType=CODE) | [정식이의 은행업무](./D4/4366.py) |
-| [4613.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQl9TIK8qoDFAXj&categoryId=AWQl9TIK8qoDFAXj&categoryType=CODE) | [러시아 국기 같은 깃발](./D4/4613.py) | [1865.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LuHfqDz8DFAXc&categoryId=AV5LuHfqDz8DFAXc&categoryType=CODE) | [동철이의 일 분배](./D4/1865.py)  |
-| [1486.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b7Yf6ABcBBASw&categoryId=AV2b7Yf6ABcBBASw&categoryType=CODE) | [장훈이의 높은 선반](./D4/1486.py)    |                                                              |                                   |
+| 문제                                                         | 코드                                      | 문제                                                         | 코드                              |
+| ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------ | --------------------------------- |
+| [4408.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcJ2sapZMDFAV8&categoryId=AWNcJ2sapZMDFAV8&categoryType=CODE) | [자기 방으로 돌아가기](./D4/4408.py)      | [1210.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE) | [Ladder1](./D4/1210.py)           |
+| [1220.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD&categoryId=AV14hwZqABsCFAYD&categoryType=CODE) | [Magnetic](./D4/1220.py)                  | [1224.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14tDX6AFgCFAYD&categoryId=AV14tDX6AFgCFAYD&categoryType=CODE) | [계산기3](./D4/1224.py)           |
+| [1238.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15B1cKAKwCFAYD&categoryId=AV15B1cKAKwCFAYD&categoryType=CODE) | [Contact](./D4/1238.py)                   | [1258.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN&categoryId=AV18LoAqItcCFAZN&categoryType=CODE) | [행렬찾기](./D4/1258.py)          |
+| [6109.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWbrg9uabZsDFAWQ&categoryId=AWbrg9uabZsDFAWQ&categoryType=CODE) | [추억의 2048게임](./D4/6109.py)           | [4366.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWMeRLz6kC0DFAXd&categoryId=AWMeRLz6kC0DFAXd&categoryType=CODE) | [정식이의 은행업무](./D4/4366.py) |
+| [4613.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQl9TIK8qoDFAXj&categoryId=AWQl9TIK8qoDFAXj&categoryType=CODE) | [러시아 국기 같은 깃발](./D4/4613.py)     | [1865.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LuHfqDz8DFAXc&categoryId=AV5LuHfqDz8DFAXc&categoryType=CODE) | [동철이의 일 분배](./D4/1865.py)  |
+| [1486.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b7Yf6ABcBBASw&categoryId=AV2b7Yf6ABcBBASw&categoryType=CODE) | [장훈이의 높은 선반](./D4/1486.py)        | [3752.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWHPkqBqAEsDFAUn&categoryId=AWHPkqBqAEsDFAUn&categoryType=CODE) | [가능한 시험 점수](./D4/3752.py)  |
+| [2819.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB&categoryId=AV7I5fgqEogDFAXB&categoryType=CODE) | [격자판의 숫자 이어 붙이기](./D4/2819.py) |                                                              |                                   |
 
 
 
@@ -63,10 +64,10 @@
 
 ## D5
 
-| 문제                                                         | 코드                     | 문제 | 코드 |
-| ------------------------------------------------------------ | ------------------------ | ---- | ---- |
-| [1259.](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18NaZqIt8CFAZN) | [금속막대](./D5/1259.py) |      |      |
-|                                                              |                          |      |      |
+| 문제                                                         | 코드                     | 문제                                                         | 코드                      |
+| ------------------------------------------------------------ | ------------------------ | ------------------------------------------------------------ | ------------------------- |
+| [1259.](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18NaZqIt8CFAZN) | [금속막대](./D5/1259.py) | [1247.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD&categoryId=AV15OZ4qAPICFAYD&categoryType=CODE) | [최적 경로](./D5/1247.py) |
+|                                                              |                          |                                                              |                           |
 
 
 
