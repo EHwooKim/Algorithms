@@ -58,6 +58,7 @@
 | [1486.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b7Yf6ABcBBASw&categoryId=AV2b7Yf6ABcBBASw&categoryType=CODE) | [장훈이의 높은 선반](./D4/1486.py)        | [3752.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWHPkqBqAEsDFAUn&categoryId=AWHPkqBqAEsDFAUn&categoryType=CODE) | [가능한 시험 점수](./D4/3752.py)      |
 | [2819.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB&categoryId=AV7I5fgqEogDFAXB&categoryType=CODE) | [격자판의 숫자 이어 붙이기](./D4/2819.py) | [7465.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU&categoryId=AWngfZVa9XwDFAQU&categoryType=CODE) | [창용 마을 무리의 개수](./D4/7465.py) |
 | [1861.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc&categoryId=AV5LtJYKDzsDFAXc&categoryType=CODE) | [정사각형 방](./D4/1861.py)               | [1808.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4yC3pqCegDFAUx&categoryId=AV4yC3pqCegDFAUx&categoryType=CODE) | [지희의 고장난 계산기](./D4/1808.py)  |
+| [1231.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV140YnqAIECFAYD&categoryId=AV140YnqAIECFAYD&categoryType=CODE) | [중위순회](./D4/1231.py)                  |                                                              |                                       |
 
 
 
