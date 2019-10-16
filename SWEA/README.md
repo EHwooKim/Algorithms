@@ -59,7 +59,7 @@
 | [2819.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB&categoryId=AV7I5fgqEogDFAXB&categoryType=CODE) | [격자판의 숫자 이어 붙이기](./D4/2819.py) | [7465.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU&categoryId=AWngfZVa9XwDFAQU&categoryType=CODE) | [창용 마을 무리의 개수](./D4/7465.py) |
 | [1861.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc&categoryId=AV5LtJYKDzsDFAXc&categoryType=CODE) | [정사각형 방](./D4/1861.py)               | [1808.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4yC3pqCegDFAUx&categoryId=AV4yC3pqCegDFAUx&categoryType=CODE) | [지희의 고장난 계산기](./D4/1808.py)  |
 | [1231.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV140YnqAIECFAYD&categoryId=AV140YnqAIECFAYD&categoryType=CODE) | [중위순회](./D4/1231.py)                  | [1232.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141J8KAIcCFAYD&categoryId=AV141J8KAIcCFAYD&categoryType=CODE) | [사칙연산](./D4/1232.py)              |
-|                                                              |                                           |                                                              |                                       |
+| [5221.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWWO3kT6F2oDFAV4&categoryId=AWWO3kT6F2oDFAV4&categoryType=CODE) | [상원이의 생일파티](./D4/5521.py)         |                                                              |                                       |
 
 
 
