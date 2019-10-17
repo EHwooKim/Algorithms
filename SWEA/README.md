@@ -115,6 +115,8 @@
 | [5203.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYEGw61n8DFAVT) | [베이비진 게임](./LPA/5203.py) | [5204.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYFsQq11kDFAVT#) | [병합정렬](./LPA/5204.py)           |
 | [5205.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYFsQq11kDFAVT) | [퀵 정렬](./LPA/5205.py)       | [5207.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYFsQq11kDFAVT) | [동전 거스름돈 문제](./LPA/5207.py) |
 | [5208.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYGf7K180DFAVT#) | [전기버스2](./LPA/5208.py)     | [5209.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYGf7K180DFAVT#) | [최소 생산 비용](./LPA/5209.py)     |
+| [5247.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYG3y62EcDFAVT) | [연산](./LPA/5247.py)          | [5248.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYG3y62EcDFAVT) | [그룹 나누기](./LPA/5248.py)        |
+|                                                              |                                |                                                              |                                     |
 
 
 
