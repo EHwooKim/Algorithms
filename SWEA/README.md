@@ -103,7 +103,8 @@
 | [5110.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVJ1r6qfkDFAWg) | [수열 합치기](./LPI/5110.py)     | [5120.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVJ1r6qfkDFAWg) | [암호](./LPI/5120.py)               |
 | [5122.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVJ1r6qfkDFAWg) | [수열 편집](./LPI/5122.py)       | [5174.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVJ-_6qfsDFAWg) | [subtree](./LPI/5174.py)            |
 | [5176.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVJ-_6qfsDFAWg) | [이진탐색](./LPI/5176.py)        | [5177.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVJ-_6qfsDFAWg) | [이진 힙](./LPI/5177.py)            |
-| [5178.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVJ-_6qfsDFAWg) | [노드의 합](./LPI/5178.py)       |                                                              |                                     |
+| [5178.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVJ-_6qfsDFAWg) | [노드의 합](./LPI/5178.py)       | [5249.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYHO7a2JoDFAVT) | [최소 신장 트리](./LPA/5249.py)     |
+|                                                              |                                  |                                                              |                                     |
 
 ## Learn - Programming - Adcanced
 
@@ -116,7 +117,7 @@
 | [5205.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYFsQq11kDFAVT) | [퀵 정렬](./LPA/5205.py)       | [5207.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYFsQq11kDFAVT) | [동전 거스름돈 문제](./LPA/5207.py) |
 | [5208.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYGf7K180DFAVT#) | [전기버스2](./LPA/5208.py)     | [5209.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYGf7K180DFAVT#) | [최소 생산 비용](./LPA/5209.py)     |
 | [5247.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYG3y62EcDFAVT) | [연산](./LPA/5247.py)          | [5248.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYG3y62EcDFAVT) | [그룹 나누기](./LPA/5248.py)        |
-|                                                              |                                |                                                              |                                     |
+| [5250.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYHO7a2JoDFAVT) | [최소 비용](./LPA/5250.py)     | [5251.](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYHO7a2JoDFAVT) | [최소 이동 거리](./LPA/5251.py)     |
 
 
 
