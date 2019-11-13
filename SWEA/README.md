@@ -121,12 +121,14 @@
 
 
 
+## 모의SW역량테스트
 
-
-| 문제                                                         | 코드                | 문제                                                         | 코드                                   |
-| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | -------------------------------------- |
-| [4012.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH&categoryId=AWIeUtVakTMDFAVH&categoryType=CODE) | [요리사](./4012.py) | [1952.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq&categoryId=AV5PpFQaAQMDFAUq&categoryType=CODE) | [모의SW역량테스트 - 수영장](./1952.py) |
-|                                                              |                     |                                                              |                                        |
+| 문제                                                         | 코드                      | 문제                                                         | 코드                     |
+| ------------------------------------------------------------ | ------------------------- | ------------------------------------------------------------ | ------------------------ |
+| [4012.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH&categoryId=AWIeUtVakTMDFAVH&categoryType=CODE) | [요리사](./4012.py)       | [1952.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq&categoryId=AV5PpFQaAQMDFAUq&categoryType=CODE) | [수영장](./1952.py)      |
+| [1949.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq&categoryId=AV5PoOKKAPIDFAUq&categoryType=CODE) | [등산로 조성](./1949.py)  | [1953.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq&categoryId=AV5PpLlKAQ4DFAUq&categoryType=CODE) | [탈주범 검거](./1953.py) |
+| [2383.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl&categoryId=AV5-BEE6AK0DFAVl&categoryType=CODE) | [점심 식사시간](/2383.py) | [4008.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH&categoryId=AWIeRZV6kBUDFAVH&categoryType=CODE) | [숫자 만들기](./4008.py) |
+| [5643.py](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXQsLWKd5cDFAUo&categoryId=AWXQsLWKd5cDFAUo&categoryType=CODE) | [키 순서](./5643.py)      |                                                              |                          |
 
 ```python
 import sys; sts.stdin = open('(1214)input.txt','r')
