@@ -46,7 +46,7 @@
 | [4615.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQmA4uK8ygDFAXj&categoryId=AWQmA4uK8ygDFAXj&categoryType=CODE) | [재미있는 오셀로 게임](./D3/4615.py)   | [6190.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWcPjEuKAFgDFAU4&categoryId=AWcPjEuKAFgDFAU4&categoryType=CODE) | [정곤이의 단조 증가하는 수](./D3/6190.py) |
 | [1240.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15FZuqAL4CFAYD&categoryId=AV15FZuqAL4CFAYD&categoryType=CODE) | [단순 2진 암호코드](./D3/1240.py)      | [1244.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD&categoryId=AV15Khn6AN0CFAYD&categoryType=CODE) | [최대 상금](./D4/1244.py)                 |
 | [6692](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWdXofhKFkADFAWn&categoryId=AWdXofhKFkADFAWn&categoryType=CODE) | [다솔이의 월급 상자](./D3/6692.py)     | [6057.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWbHcWd6AFcDFAV0) | [그래프의 삼각형](./D3/6057.py)           |
-|                                                              |                                        |                                                              |                                           |
+| [6019](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWajaTmaZw4DFAWM) | [기차 사이의 파리](./D3/6019.py)       |                                                              |                                           |
 
 ## D4
 
