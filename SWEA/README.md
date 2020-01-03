@@ -48,7 +48,8 @@
 | [6692](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWdXofhKFkADFAWn&categoryId=AWdXofhKFkADFAWn&categoryType=CODE) | [다솔이의 월급 상자](./D3/6692.py)     | [6057.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWbHcWd6AFcDFAV0) | [그래프의 삼각형](./D3/6057.py)           |
 | [6019](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWajaTmaZw4DFAWM) | [기차 사이의 파리](./D3/6019.py)       | [5986.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWaJ3q8qV-4DFAUQ) | [새샘이와  세 소수](./D3/5986.py)         |
 | [5948.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWZ2IErKCwUDFAUQ) | [새샘이의 7-3-5 게임](./D3/5948.py)    | [5688.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXVyCaKugQDFAUo) | [세제곱근을 찾아라](./D3/5688.py)         |
-| [5549.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWWxpEDaAVoDFAW4) | [홀수일까 짝수일까](./D3/5549.py)      |                                                              |                                           |
+| [5549.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWWxpEDaAVoDFAW4) | [홀수일까 짝수일까](./D3/5549.py)      | [5515.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWWOwecaFrIDFAV4) | [2016년 요일 맞추기](./D3/5515.py)        |
+|                                                              |                                        |                                                              |                                           |
 
 ## D4
 
