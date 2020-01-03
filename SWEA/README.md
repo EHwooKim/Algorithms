@@ -47,7 +47,8 @@
 | [1240.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15FZuqAL4CFAYD&categoryId=AV15FZuqAL4CFAYD&categoryType=CODE) | [단순 2진 암호코드](./D3/1240.py)      | [1244.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD&categoryId=AV15Khn6AN0CFAYD&categoryType=CODE) | [최대 상금](./D4/1244.py)                 |
 | [6692](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWdXofhKFkADFAWn&categoryId=AWdXofhKFkADFAWn&categoryType=CODE) | [다솔이의 월급 상자](./D3/6692.py)     | [6057.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWbHcWd6AFcDFAV0) | [그래프의 삼각형](./D3/6057.py)           |
 | [6019](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWajaTmaZw4DFAWM) | [기차 사이의 파리](./D3/6019.py)       | [5986.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWaJ3q8qV-4DFAUQ) | [새샘이와  세 소수](./D3/5986.py)         |
-| [5948.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWZ2IErKCwUDFAUQ) | [새샘이의 7-3-5 게임](./D3/5948.py)    |                                                              |                                           |
+| [5948.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWZ2IErKCwUDFAUQ) | [새샘이의 7-3-5 게임](./D3/5948.py)    | [5688.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXVyCaKugQDFAUo) | [세제곱근을 찾아라](./D3/5688.py)         |
+|                                                              |                                        |                                                              |                                           |
 
 ## D4
 
