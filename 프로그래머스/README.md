@@ -15,7 +15,7 @@
 | ------------------------------------------------------------ | ----------------------------- | ------------------------------------------------------------ | ----------------------------- |
 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [42583.py](./level2/42583.py) | [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585) | [42585.py](./level2/42585.py) |
 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [42587.py](./level2/42587.py) | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [42584.py](./level2/42584.py) |
-| [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [42586.py](./level2/42586.py) |                                                              |                               |
+| [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [42586.py](./level2/42586.py) | [행렬의곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) | [12949.py](./level2/12949.py) |
 
 
 
