@@ -12,7 +12,7 @@
 | [14888](https://www.acmicpc.net/problem/14888) | [연산자 끼워넣기](./14888.py) | [17472](https://www.acmicpc.net/problem/17472) | [다리만들기2](./17472.py)     |
 | [2661](https://www.acmicpc.net/problem/2661)   | [좋은 수열](./2661.py)        | [15649](https://www.acmicpc.net/problem/15649) | [N과 M(1)](./15649.py)        |
 | [15650](https://www.acmicpc.net/problem/15650) | [N과 M(2)](./15650.py)        | [15651](https://www.acmicpc.net/problem/15651) | [N과 M(3)](./15651.py)        |
-| [1182](https://www.acmicpc.net/problem/1182)   | [부분수열의 합](./1182.py)    |                                                |                               |
+| [1182](https://www.acmicpc.net/problem/1182)   | [부분수열의 합](./1182.py)    | [2667](https://www.acmicpc.net/problem/2667)   | [단지번호붙이기](./2667.js)   |
 
 
 
