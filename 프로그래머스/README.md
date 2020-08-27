@@ -20,7 +20,7 @@
 | [n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) | [17687.py](./level2/17687.py)                                | [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [43165.py](./level2/43165.py), [43165.js](./level2/43165.js) |
 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065?language=python3) | [64065.py](./level2/64065.py)                                | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899?language=javascript) | [12899.js](./level2/12899.js)                                |
 | [H-index](https://programmers.co.kr/learn/courses/30/lessons/42747) | [42747.py](./level2/42747.py)                                | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048?language=python3) | [62048.py](./level2/62048.py), [62048.js](./level2/62048.js) |
-| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [42842.py](./level2/42842.py)                                |                                                              |                                                              |
+| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [42842.py](./level2/42842.py)                                | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [42839.py](./level2/42839.py), [42839.js](./level2/42839.js) |
 
 
 
