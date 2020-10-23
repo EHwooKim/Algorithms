@@ -5,7 +5,8 @@
 | 문제                                                         | 풀이                   |문제|풀이|
 | ------------------------------------------------------------ | ---------------------- |------------------------------------------------------------|------------------------------------------------------------|
 | [완주하지못한선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=javascript) | [42576.py](./level1/42576.py) |[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061?language=python3)|[64061.py](./level1/64061.py), [64061.js](./level1/64061.js)|
-| [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681?language=python3) | [17681.py](./level1/17681.py), [17681.js](./level1/17681.js) |[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[68644.py](./level1/68644.py), [68644.js](./level1/68644.js)|
+| [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681?language=python3) | [17681.py](./level1/17681.py), [17681.js](./level1/17681.js) |[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[68644.py](./level1/68644.py), [68644.js](./level1/68644.js), [68644.java](./level1/68644.java)|
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=java) | [42840.java](./level1/42840.java) |||
 
 
 
