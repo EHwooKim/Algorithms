@@ -24,13 +24,11 @@
 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [42842.py](./level2/42842.py)                                | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [42839.py](./level2/42839.py), [42839.js](./level2/42839.js) |
 | [[1차] 프렌즈 4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | [17679.py](./level2/17679.py), [17679.js](./level2/17679.js) |                                                              |                                                              |
 
-
-
 ## Level_3
 
 | 문제                                                         | 풀이                                                         | 문제                                                         | 풀이                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162?language=python3) | [43162.py](./level3/43162.py), [43162.js](./level3/43162.js) | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163?language=python3) | [43163.py](./level3/43163.py), [43163.js](./level3/43163.js) |
 | [2 x n 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900?language=javascript) | [12900.py](./level3/12900.py), [12900.js](./level3/12900.js) | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | [49189.py](./level3/49189.py), [49189.js](./level3/49189.js) |
-| [숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987) | [12987.py](./level3/12987.py),                               |                                                              |                                                              |
+| [숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987) | [12987.py](./level3/12987.py),                               | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [43164.js](./level3/43164.js)                                |
 

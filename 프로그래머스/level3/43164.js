@@ -4,19 +4,19 @@ function findMinValue(depth, arr, tmpArr, minArr, used) {
       return tmpArr
     } else {
       for (let i = 0; i < tmpArr.length; i++) {
-        let compare = minArr[i].localeCompare(tmpArr[i])
-        if (compare === -1) {
+        if (minArr[i] < tmpArr[i]) {
           return minArr
-        } 
+        } else if (minArr[i] > tmpArr[i]) {
+          return tmpArr
+        }
       }
       return tmpArr
     }
-    
   }
 
   for (let i = 0; i < arr.length ; i++) {
     if (used & (1 << i)) continue
-    if (depth === 0) {
+    if (depth === 0 && arr[i][0] ==="ICN") {
       minArr = findMinValue(depth + 1, arr, arr[i], minArr, used | (1 << i))
     } 
     if (tmpArr[tmpArr.length - 1] === arr[i][0]) {
@@ -32,10 +32,5 @@ function solution(tickets) {
 }
 
 console.log(solution([["ICN", "JFK"], ["HND", "IAD"], ["JFK", "HND"]]))
-// console.log('---')
 console.log(solution([["ICN", "SFO"], ["ICN", "ATL"], ["SFO", "ATL"], ["ATL", "ICN"], ["ATL","SFO"]]))
 
-
-// const a = 'abc'
-// const b = 'bcd'
-// console.log(a.localeCompare(b))
