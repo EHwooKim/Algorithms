@@ -12,7 +12,8 @@
 | [N과 M(2)](https://www.acmicpc.net/problem/15650)            | [15650.py](./code/15650.py) | [N과 M(3)](https://www.acmicpc.net/problem/15651)        | [15651.py](./code/15651.py) |
 | [부분수열의 합](https://www.acmicpc.net/problem/1182)        | [1182.py](./code/1182.py)   | [단지번호붙이기](https://www.acmicpc.net/problem/2667)   | [2667.js](./code/2667.js)   |
 | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | [18352.py](./code/18352.py) | [수들의 합2](https://www.acmicpc.net/problem/2003)       | [2003.js](./code/2003.js)   |
-| [선 긋기](https://www.acmicpc.net/problem/2170)              | [2170.js](./code/2170.js)   |                                                          |                             |
+| [선 긋기](https://www.acmicpc.net/problem/2170)              | [2170.js](./code/2170.js)   | [부분합](https://www.acmicpc.net/problem/1806)           | [1806.js](./code/1806.js)   |
+| [소수의 연속합](https://www.acmicpc.net/problem/1644)        | [1644.js](./code/1644.js)   |                                                          |                             |
 
 
 
