@@ -16,6 +16,7 @@
 | [소수의 연속합](https://www.acmicpc.net/problem/1644)        | [1644.js](./code/1644.js)   | [두 용액](https://www.acmicpc.net/problem/2470)          | [2470.js](./code/2470.js)   |
 | [수 찾기](https://www.acmicpc.net/problem/1920)              | [1920.js](./code/1920.js)   | [나무 자르기](https://www.acmicpc.net/problem/2805)      | [2805.js](./code/2805.js)   |
 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [11729.js](./code/11729.js) | [미로 탐색](https://www.acmicpc.net/problem/2178)        | [2178.js](./code/2178.js)   |
+| [바이러스](https://www.acmicpc.net/problem/2606)             | [2606.ts](./code/2606.ts)   | [DFS와 BFS](https://www.acmicpc.net/problem/1260)        | [1260.js](./code/1260.js)   |
 
 
 
