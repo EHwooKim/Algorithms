@@ -19,7 +19,7 @@
 | [바이러스](https://www.acmicpc.net/problem/2606)             | [2606.ts](./code/2606.ts)   | [DFS와 BFS](https://www.acmicpc.net/problem/1260)        | [1260.js](./code/1260.js)   |
 | [수열](https://www.acmicpc.net/problem/2559)                 | [2559.ts](./code/2559.ts)   | [설탕 배달](https://www.acmicpc.net/problem/2839)        | [2839.ts](./code/2839.ts)   |
 | [괄호](https://www.acmicpc.net/problem/9012)                 | [9012.js](./code/9012.js)   | [토마토](https://www.acmicpc.net/problem/7576)           | [7576.js](./code/7576.ts)   |
-| [유기농 배추](https://www.acmicpc.net/problem/1012)          | [1012.js](./code/1012.js)   |                                                          |                             |
+| [유기농 배추](https://www.acmicpc.net/problem/1012)          | [1012.js](./code/1012.js)   | [ABCDE](https://www.acmicpc.net/problem/13023)           | [13023.js](./code/13023.ts) |
 
 
 
