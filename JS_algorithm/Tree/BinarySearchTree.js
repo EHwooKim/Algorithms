@@ -53,21 +53,65 @@ class BinarySearchTree {
     if(!found) return undefined
     return current
   }
-  // contains(value) {
-  //   if (this.root === null) return false
-  //   let current = this.root
-  //   let found = false
-  //   while (current && !found) {
-  //     if (value < current.value) {
-  //       current = current.left
-  //     } else if (value > current.value) {
-  //       current = current.right
-  //     } else {
-  //       return true
-  //     }
-  //   }
-  //   return false
-  // }
+  contains(value) {
+    if (this.root === null) return false
+    let current = this.root
+    let found = false
+    while (current && !found) {
+      if (value < current.value) {
+        current = current.left
+      } else if (value > current.value) {
+        current = current.right
+      } else {
+        return true
+      }
+    }
+    return false
+  }
+  BFS() {
+    let node = this.root,
+        data = [],
+        queue = []
+    queue.push(node)
+
+    while (queue.length) {
+      node = queue.shift()
+      data.push(node)
+      node.left && queue.push(node.left)
+      node.right && queue.push(node.right)
+    }
+    return data
+  }
+  DFSPreOrder() {
+    let data = []
+    function traverse(node) {
+      data.push(node)
+      if (node.left) traverse(node.left)
+      if (node.right) traverse(node.right)
+    }
+    traverse(this.root)
+    return data
+  }
+  DFSPostOrder() {
+    let data = []
+    function traverse(node) {
+      if (node.left) traverse(node.left)
+      if (node.right) traverse(node.right)
+      data.push(node)
+    }
+    traverse(this.root)
+    return data
+  }
+  DFSInOrder() {
+    let data = []
+    function traverse(node) {
+      if (node.left) traverse(node.left)
+      data.push(node)
+      if (node.right) traverse(node.right)
+    }
+    traverse(this.root)
+    return data
+  }
 }
 
 /*
@@ -77,3 +121,19 @@ class BinarySearchTree {
   - 항상 위의 시간 복잡도를 가지는 것은 아니다
     이전 값보다 큰값을 계속 넣게되는 등의 경우 BST는 효율적이지 못하다
 */
+
+const tree = new BinarySearchTree()
+tree.insert(10)
+tree.insert(6)
+tree.insert(15)
+tree.insert(3)
+tree.insert(8)
+tree.insert(20)
+
+console.log(tree.BFS())
+console.log('---')
+console.log(tree.DFSPreOrder())
+console.log('---')
+console.log(tree.DFSPostOrder())
+console.log('---')
+console.log(tree.DFSInOrder())
