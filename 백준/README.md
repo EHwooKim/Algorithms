@@ -18,8 +18,11 @@
 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [11729.js](./code/11729.js) | [미로 탐색](https://www.acmicpc.net/problem/2178)        | [2178.js](./code/2178.js)   |
 | [바이러스](https://www.acmicpc.net/problem/2606)             | [2606.ts](./code/2606.ts)   | [DFS와 BFS](https://www.acmicpc.net/problem/1260)        | [1260.js](./code/1260.js)   |
 | [수열](https://www.acmicpc.net/problem/2559)                 | [2559.ts](./code/2559.ts)   | [설탕 배달](https://www.acmicpc.net/problem/2839)        | [2839.ts](./code/2839.ts)   |
-| [괄호](https://www.acmicpc.net/problem/9012)                 | [9012.js](./code/9012.js)   | [토마토](https://www.acmicpc.net/problem/7576)           | [7576.js](./code/7576.ts)   |
-| [유기농 배추](https://www.acmicpc.net/problem/1012)          | [1012.js](./code/1012.js)   | [ABCDE](https://www.acmicpc.net/problem/13023)           | [13023.js](./code/13023.ts) |
+| [괄호](https://www.acmicpc.net/problem/9012)                 | [9012.js](./code/9012.js)   | [토마토](https://www.acmicpc.net/problem/7576)           | [7576.js](./code/7576.js)   |
+| [유기농 배추](https://www.acmicpc.net/problem/1012)          | [1012.js](./code/1012.js)   | [ABCDE](https://www.acmicpc.net/problem/13023)           | [13023.js](./code/13023.js) |
+| [별 찍기 - 1](https://www.acmicpc.net/problem/2438)          | [2438.js](./code/2438.js)   | [숫자의 합](https://www.acmicpc.net/problem/11720)       | [11720.js](./code/11720.js) |
+| [숫자의 개수](https://www.acmicpc.net/problem/2577)          | [2577.js](./code/2577.js)   | [OX 퀴즈](https://www.acmicpc.net/problem/8958)          | [8958.js](./code/8958.js)   |
+| [단어의 개수](https://www.acmicpc.net/problem/1152)          | [1152.js](./code/1152.js)   | [알파벳 찾기](https://www.acmicpc.net/problem/10809)     | [10809.js](./code/10809.js) |
 
 
 
