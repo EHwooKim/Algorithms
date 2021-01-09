@@ -27,6 +27,8 @@
 | [A+B-6](https://www.acmicpc.net/problem/10953)               | [10953.js](./code/10953.js) | [그룹 단어 체커](https://www.acmicpc.net/problem/1316)     | [1316.js](./code/1316.js)   |
 | [단어 공부](https://www.acmicpc.net/problem/1157)            | [1157.js](./code/1157.js)   | [제로](https://www.acmicpc.net/problem/10773)              | [10773.js](./code/10773.js) |
 | [알파벳 개수](https://www.acmicpc.net/problem/10808)         | [10808.js](./code/10808.js) | [하얀 칸](https://www.acmicpc.net/problem/1100)            | [1100.js](./code/1100.js)   |
+| [KMP](https://www.acmicpc.net/problem/2902)                  | [2902.js](./code/2902.js)   | [명령 프롬프트](https://www.acmicpc.net/problem/1032)      | [1032.js](./code/1032.js)   |
+| [균형잡힌 세상](https://www.acmicpc.net/problem/4949)        | [4949.js](./code/4949.js)   |                                                            |                             |
 
 
 
