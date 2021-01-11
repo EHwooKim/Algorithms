@@ -61,3 +61,84 @@
 ### BST 코드
 
 [Binary Search Tree](./BinarySearchTree.js)
+
+## Binary Heap
+
+`Binary Heap`은 `Priority Quere 구현`과 `Graph traversal 알고리즘`등에 필요한 중요한 개념이다.
+
+### Intro
+
+* Binar yHeap 이란?
+
+  `BST(Binary Search Tree)`와 굉장히 비슷한 자료구조로, 
+
+  `MaxBinaryHeap`은 부모요소가 자식요소보다 항상 큰 값을 가지고
+
+  `MinBinaryHeap`은 부모요소가 자식요소보다 항상 작은 값을 가진다.
+
+  하지만, left 자식 노드는 작은 값, right 자식 노드는 큰 값이 들어가는 BST와 다르게 **부모가 자식보다 크기만 (작기만) 하면 된다**
+
+* `Max Binary Heap`
+
+![image](https://user-images.githubusercontent.com/52653793/104151561-b2c6ed00-5420-11eb-9165-7305b4f3f739.png)
+
+> BST와 다르게 부모가 자식보다 큰 값을 가지기만 하면된다. 
+
+* `Min Binary Heap`
+
+![image](https://user-images.githubusercontent.com/52653793/104151592-cffbbb80-5420-11eb-9f6b-be3b3648a301.png)
+
+### Parent, Child Index
+
+* 부모 요소 인덱스
+
+  인덱스가 `n`인 요소의 부모 요소 인덱스는 `Math.floor((n-1) / 2)`
+
+* 자식 요소 인덱스
+
+  인덱스가 `n`인 요소의 자식 요소 인덱스는 `2n + 1`, `2n + 2`
+
+### Method
+
+`Binary Heap`은 `BST`처럼 Node, next, left, right, head... 등이 필요없고 값을 저장할 배열만 있으면 된다.
+
+```javascript
+class BinaryHeap {
+  constructor() {
+    this.values = []
+  }
+}
+```
+
+* `Insert(value)`
+
+  * 값을 배열 마지막에 추가
+  * 알맞은 위치까지 `Bubble up`
+
+  ```
+  - 추가할 값을 values 배열 끝에 추가한다.
+  - 추가한 값의 적절한 위치까지 아래 과정을 반복하여 Bubble up 한다.
+    - 마지막 인덱스와 값을 변수에 저장한다.
+    - 마지막 인덱스의 부모 요소 인덱스를 구한다 : Math.floor((n-1)/2)
+    - 부모 요소의 값이 추가한 값보다 작거나 같을 떄까지 swapping한다.
+    - 추가한 값이 root요소까지 갔을 때에도 반복문을 종료한다.
+  ```
+
+* `extractMax()` : remove value
+
+  * root 요소 (가장 큰 값, 반환값) 제거 
+  * 마지막에 추가된 값을 root요소 자리에 위치시킨다
+  * 적절한 위치까지 sinkDown
+
+  ```
+  - 값 제거 후 root요소를 시작으로 아래 과정을 반복한다
+    - left, right 자식 요소 인덱스를 구한다.
+    - left, right 자식 요소가 있다면 (배열 인덱스를 넘기지 않았다면)
+    - left, right 값 중 더 큰 값을 새로 추가한 값과 swap 한다.
+    - swap이 되지 않았다면 반복문을 종료한다.
+  ```
+
+
+### Max Binary Heap 코드
+
+[Max Binary Heap](./MaxBinaryHeap.js)
