@@ -30,6 +30,7 @@
 | [KMP](https://www.acmicpc.net/problem/2902)                  | [2902.js](./code/2902.js)   | [명령 프롬프트](https://www.acmicpc.net/problem/1032)      | [1032.js](./code/1032.js)   |
 | [균형잡힌 세상](https://www.acmicpc.net/problem/4949)        | [4949.js](./code/4949.js)   | [세로읽기](https://www.acmicpc.net/problem/10798)          | [10798.js](./code/10798.js) |
 | [팰린드롬 확인](https://www.acmicpc.net/problem/10988)       | [10988.js](./code/10988.js) | [접미사 배열](https://www.acmicpc.net/problem/11656)       | [11656.js](./code/11656.js) |
+| [트리 순회](https://www.acmicpc.net/problem/1991)            | [1991.js](./code/1991.js)   |                                                            |                             |
 
 
 
