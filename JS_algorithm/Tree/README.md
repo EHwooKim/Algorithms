@@ -142,3 +142,22 @@ class BinaryHeap {
 ### Max Binary Heap 코드
 
 [Max Binary Heap](./MaxBinaryHeap.js)
+
+## Priority Queue
+
+각각의 요소들이 우선순위가 있고 해당 우선 순위에 따라 값이 저장되는 자료구조
+
+`Max Binary Heap` 또는 `Min Binary Heap`을 사용하여 구현하는데, 
+
+`value`와 `priority`값을 가지는 `Node`를 저장하고, 저장할 떄 `value`는 중요하지않고 `priority`에 따라 Heap 이 구성된다.
+
+* Priority Queue
+  * Min Binary Heap을 통한 구현 - 작은 숫자일 수록 우선수위가 높다.
+  * 각 Node는 value와 priority를 가지며 Heap을 구성할 때 priority에 따라 구성한다.
+  * Enqueue는 값을 추가하는 메서드
+  * Dequeue는 값을 제거하여 반환하며 priority에 따라 heap을 재정렬한다.
+
+### Priority Queue 코드
+
+[Priority Queue](./PriorityQueue.js)
+
