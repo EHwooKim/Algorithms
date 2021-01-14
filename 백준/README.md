@@ -32,7 +32,7 @@
 | [팰린드롬 확인](https://www.acmicpc.net/problem/10988)       | [10988.js](./code/10988.js) | [접미사 배열](https://www.acmicpc.net/problem/11656)       | [11656.js](./code/11656.js) |
 | [트리 순회](https://www.acmicpc.net/problem/1991)            | [1991.js](./code/1991.js)   | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)  | [11725.js](./code/11725.js) |
 | [최소 힙](https://www.acmicpc.net/problem/1927)              | [1927.js](./code/1927.js)   | [최대 힙](https://www.acmicpc.net/problem/11279)           | [11279.js](./code/11279.js) |
-| [절댓값 힙](https://www.acmicpc.net/problem/11286)           | [11286.js](./code/11286.js) |                                                            |                             |
+| [절댓값 힙](https://www.acmicpc.net/problem/11286)           | [11286.js](./code/11286.js) | [문자열](https://www.acmicpc.net/problem/1120)             | [1120.js](./code/1120.js)   |
 
 
 
