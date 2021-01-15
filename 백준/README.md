@@ -33,6 +33,7 @@
 | [트리 순회](https://www.acmicpc.net/problem/1991)            | [1991.js](./code/1991.js)   | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)  | [11725.js](./code/11725.js) |
 | [최소 힙](https://www.acmicpc.net/problem/1927)              | [1927.js](./code/1927.js)   | [최대 힙](https://www.acmicpc.net/problem/11279)           | [11279.js](./code/11279.js) |
 | [절댓값 힙](https://www.acmicpc.net/problem/11286)           | [11286.js](./code/11286.js) | [문자열](https://www.acmicpc.net/problem/1120)             | [1120.js](./code/1120.js)   |
+| [스택](https://www.acmicpc.net/problem/10828)                | [10828.js](./code/10828.js) | [큐](https://www.acmicpc.net/problem/10845)                | [10845.js](./code/10845.js) |
 
 
 
