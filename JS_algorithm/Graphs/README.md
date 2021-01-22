@@ -48,6 +48,8 @@
 
 * removeEdge(v1, v2)
 
-![image-20210122170942383](../../../AppData/Roaming/Typora/typora-user-images/image-20210122170942383.png)
+![image](https://user-images.githubusercontent.com/52653793/105466126-272e4580-5cd7-11eb-8702-99fb7e7c2c75.png)
 
 * removeVertex(vertex)
+
+![image](https://user-images.githubusercontent.com/52653793/105466069-11208500-5cd7-11eb-8e41-b491731bdd85.png)
