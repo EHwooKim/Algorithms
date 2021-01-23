@@ -53,3 +53,13 @@
 * removeVertex(vertex)
 
 ![image](https://user-images.githubusercontent.com/52653793/105466069-11208500-5cd7-11eb-8e41-b491731bdd85.png)
+
+## Graph Traversal
+
+![image](https://user-images.githubusercontent.com/52653793/105466313-62c90f80-5cd7-11eb-8611-d756259f5f91.png)
+
+* DFS
+
+![image](https://user-images.githubusercontent.com/52653793/105467328-df102280-5cd8-11eb-8998-2c913fbc845b.png)
+
+![image](https://user-images.githubusercontent.com/52653793/105467868-9c027f00-5cd9-11eb-81d6-dfa5a1af8da6.png)

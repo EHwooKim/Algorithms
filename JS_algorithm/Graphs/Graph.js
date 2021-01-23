@@ -30,13 +30,49 @@ class Graph {
     }
     delete this.adjacencyList[vertex]
   }
+
+  depthFirstRecursive(start) {
+    const result = [];
+    const visited = {};
+    // const adjacencyList = this.adjacencyList;
+
+    (function dfs(vertex) {
+      console.log(this)
+      if (!vertex) return null
+      visited[vertex] = true
+      result.push(vertex);
+
+      this.adjacencyList[vertex].forEach(neighbor => { 
+        if (!visited[neighbor]) {
+          return dfs(neighbor)
+        }
+      })
+    }).bind(this)(start)
+
+    return result
+    // ((vertex) => {
+    //   if (!vertex) return null
+    //   visited[vertex] = true
+    //   result.push(vertex)
+    //   console.log(this.adjacencyList[vertex]) // Cannot read property 'adjacencyList' of undefined, inner function의 this binding 문제
+
+    // })(start)
+  }
 }
 
 const g = new Graph()
-g.addVertex("Seoul")
-g.addVertex("Tokyo")
-g.addVertex("Aspen")
-g.addEdge("Seoul", "Tokyo")
-console.log(g)
-g.removeVertex("Seoul")
-console.log(g)
+g.addVertex("A")
+g.addVertex("B")
+g.addVertex("C")
+g.addVertex("D")
+g.addVertex("E")
+g.addVertex("F")
+g.addEdge("A", "B")
+g.addEdge("A", "C")
+g.addEdge("B", "D")
+g.addEdge("C", "E")
+g.addEdge("D", "E")
+g.addEdge("D", "F")
+g.addEdge("E", "F")
+
+console.log(g.depthFirstRecursive("A"))
