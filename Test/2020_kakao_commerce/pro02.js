@@ -15,7 +15,6 @@ function solution(m, v) {
       board.push(m - blockSize)
     }
   })
-  console.log(board)
 
   return board.length
 }

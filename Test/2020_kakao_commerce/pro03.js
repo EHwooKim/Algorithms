@@ -34,10 +34,3 @@ function solution(next_student) {
 
 console.log(solution([5, 9, 13, 1, 0, 0, 11, 1, 7, 12, 9, 9, 2]))
 console.log(solution([6, 10, 8, 5, 8, 10, 5, 1, 6, 7]))
-
-
-// const passRelation = Array.from({length: studentCount + 1}, () => [])
-
-// next_student.forEach((next, student) => {
-//   passRelation[student + 1].push(next)
-// })
