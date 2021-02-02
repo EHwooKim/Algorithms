@@ -38,7 +38,7 @@
 | [!밀비 급일](https://www.acmicpc.net/problem/11365)          | [11365.js](./code/11365.js)                              | [로또](https://www.acmicpc.net/problem/6603)                 | [6603.js](./code/6603.js)                                |
 | [스타트와 링크](https://www.acmicpc.net/problem/14889)       | [14889.js](./code/14889.js)                              | [농구 경기](https://www.acmicpc.net/problem/1159)            | [1159.js](./code/1159.js)                                |
 | [뒤집힌 덧셈](https://www.acmicpc.net/problem/1357)          | [1357.js](./code/1357.js)                                | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [1620.js](./code/1620.js)                                |
-| [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)   | [1652.js](./code/1652.js)                                |                                                              |                                                          |
+| [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)   | [1652.js](./code/1652.js)                                | [아!](https://www.acmicpc.net/problem/4999)                  | [4999.js](./code/4999.js)                                |
 
 
 
