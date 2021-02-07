@@ -41,6 +41,7 @@
 | [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)   | [1652.js](./code/1652.js)                                | [아!](https://www.acmicpc.net/problem/4999)                  | [4999.js](./code/4999.js)                                |
 | [2차원 배열의 합](https://www.acmicpc.net/problem/2167)      | [2167.js](./code/2167.js)                                | [문자열](https://www.acmicpc.net/problem/9086)               | [9086.js](./code/9086.js)                                |
 | [음계](https://www.acmicpc.net/problem/2920)                 | [2920.js](./code/2920.js)                                | [모든 순열](https://www.acmicpc.net/problem/10974)           | [10974.js](./code/10974.js)                              |
+| [오타맨 고창영](https://www.acmicpc.net/problem/2711)        | [2711.js](./code/2711.js)                                |                                                              |                                                          |
 
 
 
