@@ -43,6 +43,7 @@
 | [음계](https://www.acmicpc.net/problem/2920)                 | [2920.js](./code/2920.js)                                | [모든 순열](https://www.acmicpc.net/problem/10974)           | [10974.js](./code/10974.js)                              |
 | [오타맨 고창영](https://www.acmicpc.net/problem/2711)        | [2711.js](./code/2711.js)                                | [시험 성적](https://www.acmicpc.net/problem/9498)            | [9498.js](./code/9498.js)                                |
 | [손익분기점](https://www.acmicpc.net/problem/1712)           | [1712.js](./code/1712.js)                                | [알파벳 거리](https://www.acmicpc.net/problem/5218)          | [5218.js](./code/5218.js)                                |
+| [단어 뒤집기](https://www.acmicpc.net/problem/9093)          | [9093.js](./code/9093.js)                                |                                                              |                                                          |
 
 
 
