@@ -23,7 +23,7 @@
 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065?language=python3) | [64065.py](./level2/64065.py)                                | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899?language=javascript) | [12899.js](./level2/12899.js)                                |
 | [H-index](https://programmers.co.kr/learn/courses/30/lessons/42747) | [42747.py](./level2/42747.py)                                | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048?language=python3) | [62048.py](./level2/62048.py), [62048.js](./level2/62048.js) |
 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [42842.py](./level2/42842.py)                                | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [42839.py](./level2/42839.py), [42839.js](./level2/42839.js) |
-| [[1차] 프렌즈 4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | [17679.py](./level2/17679.py), [17679.js](./level2/17679.js) |                                                              |                                                              |
+| [[1차] 프렌즈 4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) | [17679.py](./level2/17679.py), [17679.js](./level2/17679.js) | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) | [12909.js](./level2/12909.js)                                |
 
 ## Level_3
 
