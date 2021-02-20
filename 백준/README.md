@@ -44,7 +44,7 @@
 | [오타맨 고창영](https://www.acmicpc.net/problem/2711)        | [2711.js](./code/2711.js)                                | [시험 성적](https://www.acmicpc.net/problem/9498)            | [9498.js](./code/9498.js)                                |
 | [손익분기점](https://www.acmicpc.net/problem/1712)           | [1712.js](./code/1712.js)                                | [알파벳 거리](https://www.acmicpc.net/problem/5218)          | [5218.js](./code/5218.js)                                |
 | [단어 뒤집기](https://www.acmicpc.net/problem/9093)          | [9093.js](./code/9093.js)                                | [소트인사이드](https://www.acmicpc.net/problem/1427)         | [1427.js](./code/1427.js)                                |
-| [JOI와 IOI](https://www.acmicpc.net/problem/5586)            | [5586.js](./code/5586.js)                                |                                                              |                                                          |
+| [JOI와 IOI](https://www.acmicpc.net/problem/5586)            | [5586.js](./code/5586.js)                                | [주몽](https://www.acmicpc.net/problem/1940)                 | [1940.js](./code/1940.js)                                |
 
 
 
