@@ -45,7 +45,7 @@
 | [손익분기점](https://www.acmicpc.net/problem/1712)           | [1712.js](./code/1712.js)                                | [알파벳 거리](https://www.acmicpc.net/problem/5218)          | [5218.js](./code/5218.js)                                |
 | [단어 뒤집기](https://www.acmicpc.net/problem/9093)          | [9093.js](./code/9093.js)                                | [소트인사이드](https://www.acmicpc.net/problem/1427)         | [1427.js](./code/1427.js)                                |
 | [JOI와 IOI](https://www.acmicpc.net/problem/5586)            | [5586.js](./code/5586.js)                                | [주몽](https://www.acmicpc.net/problem/1940)                 | [1940.js](./code/1940.js)                                |
-| [FBI](https://www.acmicpc.net/problem/2857)                  | [2857.js](./code/2857.js)                                |                                                              |                                                          |
+| [FBI](https://www.acmicpc.net/problem/2857)                  | [2857.js](./code/2857.js)                                | [수열의 변화](https://www.acmicpc.net/problem/1551)          | [1551.js](./code/1551.js)                                |
 
 
 
