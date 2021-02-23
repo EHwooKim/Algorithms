@@ -46,5 +46,5 @@
 | [단어 뒤집기](https://www.acmicpc.net/problem/9093)          | [9093.js](./code/9093.js)                                | [소트인사이드](https://www.acmicpc.net/problem/1427)         | [1427.js](./code/1427.js)                                |
 | [JOI와 IOI](https://www.acmicpc.net/problem/5586)            | [5586.js](./code/5586.js)                                | [주몽](https://www.acmicpc.net/problem/1940)                 | [1940.js](./code/1940.js)                                |
 | [FBI](https://www.acmicpc.net/problem/2857)                  | [2857.js](./code/2857.js)                                | [수열의 변화](https://www.acmicpc.net/problem/1551)          | [1551.js](./code/1551.js)                                |
-| [나는 요리사다](https://www.acmicpc.net/problem/2953)        | [2953.js](./code/2953.js)                                |                                                              |                                                          |
+| [나는 요리사다](https://www.acmicpc.net/problem/2953)        | [2953.js](./code/2953.js)                                | [저항](https://www.acmicpc.net/problem/1076)                 | [1076.js](./code/1076.js)                                |
 
