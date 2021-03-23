@@ -49,4 +49,5 @@
 | [나는 요리사다](https://www.acmicpc.net/problem/2953)        | [2953.js](./code/2953.js)                                | [저항](https://www.acmicpc.net/problem/1076)                 | [1076.js](./code/1076.js)                                |
 | [랜선 자르기](https://www.acmicpc.net/problem/1654)          | [1654.js](./code/1654.js)                                | [예산](https://www.acmicpc.net/problem/2512)                 | [2512.js](./code/2512.js)                                |
 | [수들의 합](https://www.acmicpc.net/problem/1789)            | [1789.js](./code/1789.js)                                | [주사위 게임](https://www.acmicpc.net/problem/10103)         | [10103.js](./code/10103.js)                              |
+| [연속구간](https://www.acmicpc.net/problem/2495)             | [2495.js](./code/2495.js)                                |                                                              |                                                          |
 
