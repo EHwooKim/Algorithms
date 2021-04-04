@@ -54,4 +54,5 @@
 | [백대열](https://www.acmicpc.net/problem/14490)              | [14490.js](./code/14490.js)                              | [좋은 자동차 번호판](https://www.acmicpc.net/problem/1871)   | [1871.js](./code/1871.js)                                |
 | [해밍 거리](https://www.acmicpc.net/problem/3449)            | [3449.js](./code/3449.js)                                | [첼시를 도와줘!](https://www.acmicpc.net/problem/11098)      | [11098.ts](./code/11098.ts)                              |
 | [닉네임에 갓 붙이기](https://www.acmicpc.net/problem/13163)  | [13163.ts](./code/13163.ts)                              | [줄번호](https://www.acmicpc.net/problem/4470)               | [4470.js](./code/4470.js)                                |
+| [입실 관리](https://www.acmicpc.net/problem/5524)            | [5524.js](./code/5524.js)                                |                                                              |                                                          |
 
