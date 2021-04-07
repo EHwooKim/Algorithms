@@ -56,4 +56,5 @@
 | [닉네임에 갓 붙이기](https://www.acmicpc.net/problem/13163)  | [13163.ts](./code/13163.ts)                              | [줄번호](https://www.acmicpc.net/problem/4470)               | [4470.js](./code/4470.js)                                |
 | [입실 관리](https://www.acmicpc.net/problem/5524)            | [5524.js](./code/5524.js)                                | [Tautogram](https://www.acmicpc.net/problem/5698)            | [5698.js](./code/5698.js)                                |
 | [지능형 기차](https://www.acmicpc.net/problem/2455)          | [2455.js](./code/2455.js)                                | [분산 처리](https://www.acmicpc.net/problem/1009)            | [1009.js](./code/1009.js)                                |
+| [문자열 반복](https://www.acmicpc.net/problem/2675)          | [2675.js](./code/2675.js)                                | [반 번호](https://www.acmicpc.net/problem/1475)              | [1475.js](./code/1475.js)                                |
 
