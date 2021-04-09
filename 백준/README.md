@@ -10,7 +10,7 @@
 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)     | [14888.py](./code/14888.py), [14888.js](./code/14888.js) | [다리만들기2](https://www.acmicpc.net/problem/17472)         | [17472.py](./code/17472.py)                              |
 | [좋은 수열](https://www.acmicpc.net/problem/2661)            | [2661.py](./code/2661.py)                                | [N과 M(1)](https://www.acmicpc.net/problem/15649)            | [15649.py](./code/15649.py), [15649.js](./code/15649.js) |
 | [N과 M(2)](https://www.acmicpc.net/problem/15650)            | [15650.py](./code/15650.js), [15650.js](./code/15650.js) | [N과 M(3)](https://www.acmicpc.net/problem/15651)            | [15651.py](./code/15651.py), [15651.js](./code/15651.js) |
-| [N과 M(4)](https://www.acmicpc.net/problem/15652)            | [15652.js](./code/15652.js)                              |                                                              |                                                          |
+| [N과 M(4)](https://www.acmicpc.net/problem/15652)            | [15652.js](./code/15652.js)                              | [트럭 주차](https://www.acmicpc.net/problem/2979)            | [2979.js](./code/2979.js)                                |
 | [부분수열의 합](https://www.acmicpc.net/problem/1182)        | [1182.py](./code/1182.py)                                | [단지번호붙이기](https://www.acmicpc.net/problem/2667)       | [2667.js](./code/2667.js)                                |
 | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | [18352.py](./code/18352.py)                              | [수들의 합2](https://www.acmicpc.net/problem/2003)           | [2003.js](./code/2003.js)                                |
 | [선 긋기](https://www.acmicpc.net/problem/2170)              | [2170.js](./code/2170.js)                                | [부분합](https://www.acmicpc.net/problem/1806)               | [1806.js](./code/1806.js)                                |
@@ -58,4 +58,5 @@
 | [지능형 기차](https://www.acmicpc.net/problem/2455)          | [2455.js](./code/2455.js)                                | [분산 처리](https://www.acmicpc.net/problem/1009)            | [1009.js](./code/1009.js)                                |
 | [문자열 반복](https://www.acmicpc.net/problem/2675)          | [2675.js](./code/2675.js)                                | [반 번호](https://www.acmicpc.net/problem/1475)              | [1475.js](./code/1475.js)                                |
 | [셀프 넘버](https://www.acmicpc.net/problem/4673)            | [4673.js](./code/4673.js)                                | [영수증](https://www.acmicpc.net/problem/5565)               | [5565.js](./code/5565.js)                                |
+| [Baseball](https://www.acmicpc.net/problem/10214)            | [10214.js](./code/10214.js)                              |                                                              |                                                          |
 
