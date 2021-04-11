@@ -59,4 +59,5 @@
 | [문자열 반복](https://www.acmicpc.net/problem/2675)          | [2675.js](./code/2675.js)                                | [반 번호](https://www.acmicpc.net/problem/1475)              | [1475.js](./code/1475.js)                                |
 | [셀프 넘버](https://www.acmicpc.net/problem/4673)            | [4673.js](./code/4673.js)                                | [영수증](https://www.acmicpc.net/problem/5565)               | [5565.js](./code/5565.js)                                |
 | [Baseball](https://www.acmicpc.net/problem/10214)            | [10214.js](./code/10214.js)                              | [콘테스트](https://www.acmicpc.net/problem/5576)             | [5576.js](./code/5576.js)                                |
+| [거울상](https://www.acmicpc.net/problem/4583)               | [4583.js](./code/4583.js)                                |                                                              |                                                          |
 
