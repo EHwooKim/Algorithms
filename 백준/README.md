@@ -60,5 +60,6 @@
 | [셀프 넘버](https://www.acmicpc.net/problem/4673)            | [4673.js](./code/4673.js)                                | [영수증](https://www.acmicpc.net/problem/5565)               | [5565.js](./code/5565.js)                                |
 | [Baseball](https://www.acmicpc.net/problem/10214)            | [10214.js](./code/10214.js)                              | [콘테스트](https://www.acmicpc.net/problem/5576)             | [5576.js](./code/5576.js)                                |
 | [거울상](https://www.acmicpc.net/problem/4583)               | [4583.js](./code/4583.js)                                | [스캐너](https://www.acmicpc.net/problem/3035)               | [3035.js](./code/3035.js)                                |
-| [팬그램](https://www.acmicpc.net/problem/5704)               | [5704.js](./code/5704.js)                                |                                                              |                                                          |
+| [팬그램](https://www.acmicpc.net/problem/5704)               | [5704.js](./code/5704.js)                                | [학점 계산](https://www.acmicpc.net/problem/2754)            | [2754.js](./code/2754.js)                                |
+| [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)    | [1085.js](./code/1085.js)                                | [생태학](https://www.acmicpc.net/problem/4358)               | [4358.js](./code/4358.js)                                |
 
