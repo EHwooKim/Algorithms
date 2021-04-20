@@ -63,5 +63,6 @@
 | [팬그램](https://www.acmicpc.net/problem/5704)               | [5704.js](./code/5704.js)                                | [학점 계산](https://www.acmicpc.net/problem/2754)            | [2754.js](./code/2754.js)                                |
 | [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)    | [1085.js](./code/1085.js)                                | [생태학](https://www.acmicpc.net/problem/4358)               | [4358.js](./code/4358.js)                                |
 | [모음의 개수](https://www.acmicpc.net/problem/1264)          | [1264.js](./code/1264.js)                                | [더하기 싸이클](https://www.acmicpc.net/problem/1110)        | [1110.js](./code/1110.js)                                |
-| [럭키 스트레이트](https://www.acmicpc.net/problem/18406)     | [18406.js](./code/18406.js)                              |                                                              |                                                          |
+| [럭키 스트레이트](https://www.acmicpc.net/problem/18406)     | [18406.js](./code/18406.js)                              | [회사에 있는 사람](https://www.acmicpc.net/problem/7785)     | [7785.js](./code/7785.js)                                |
+| [상근날드](https://www.acmicpc.net/problem/5543)             | [5543.js](./code/5543.js)                                | [파도반 수열](https://www.acmicpc.net/problem/9461)          | [9461.js](./code/9461.js)                                |
 
