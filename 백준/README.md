@@ -65,4 +65,5 @@
 | [모음의 개수](https://www.acmicpc.net/problem/1264)          | [1264.js](./code/1264.js)                                | [더하기 싸이클](https://www.acmicpc.net/problem/1110)        | [1110.js](./code/1110.js)                                |
 | [럭키 스트레이트](https://www.acmicpc.net/problem/18406)     | [18406.js](./code/18406.js)                              | [회사에 있는 사람](https://www.acmicpc.net/problem/7785)     | [7785.js](./code/7785.js)                                |
 | [상근날드](https://www.acmicpc.net/problem/5543)             | [5543.js](./code/5543.js)                                | [파도반 수열](https://www.acmicpc.net/problem/9461)          | [9461.js](./code/9461.js)                                |
+| [파티가 끝나고 난 뒤](https://www.acmicpc.net/problem/2845)  | [2845.js](./code/2845.js)                                | [전자레인지](https://www.acmicpc.net/problem/10162)          | [10162.js](./code/10162.js)                              |
 
