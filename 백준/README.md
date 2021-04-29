@@ -69,4 +69,6 @@
 | [민균이의 비밀번호](https://www.acmicpc.net/problem/9933)    | [9933.js](./code/9933.js)                                | [애너그램](https://www.acmicpc.net/problem/6996)             | [6996.js](./code/6996.js)                                |
 | [문자열 분석](https://www.acmicpc.net/problem/10820)         | [10820.js](./code/10820.js)                              | [애너그램 만들기](https://www.acmicpc.net/problem/1919)      | [1919.js](./code/1919.js)                                |
 | [컵홀더](https://www.acmicpc.net/problem/2810)               | [2810.js](./code/2810.js)                                | [유진수](https://www.acmicpc.net/problem/1356)               | [1356.js](./code/1356.js)                                |
+| [한다 안한다](https://www.acmicpc.net/problem/5789)          | [5789.js](./code/5789.js)                                |                                                              |                                                          |
+|                                                              |                                                          |                                                              |                                                          |
 
