@@ -71,4 +71,5 @@
 | [컵홀더](https://www.acmicpc.net/problem/2810)               | [2810.js](./code/2810.js)                                | [유진수](https://www.acmicpc.net/problem/1356)               | [1356.js](./code/1356.js)                                |
 | [한다 안한다](https://www.acmicpc.net/problem/5789)          | [5789.js](./code/5789.js)                                | [암호](https://www.acmicpc.net/problem/1718)                 | [1718.js](./code/1718.js)                                |
 | [창영이의 일기장](https://www.acmicpc.net/problem/2954)      | [2954.js](./code/2954.js)                                | [마술사 이민혁](https://www.acmicpc.net/problem/3023)        | [3023.js](./code/3023.js)                                |
+| [반지](https://www.acmicpc.net/problem/5555)                 | [5555.js](./code/5555.js)                                | [경고](https://www.acmicpc.net/problem/3029)                 | [3029.js](./code/3029.js)                                |
 
