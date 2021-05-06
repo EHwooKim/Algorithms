@@ -73,5 +73,5 @@
 | [창영이의 일기장](https://www.acmicpc.net/problem/2954)      | [2954.js](./code/2954.js)                                | [마술사 이민혁](https://www.acmicpc.net/problem/3023)        | [3023.js](./code/3023.js)                                |
 | [반지](https://www.acmicpc.net/problem/5555)                 | [5555.js](./code/5555.js)                                | [경고](https://www.acmicpc.net/problem/3029)                 | [3029.js](./code/3029.js)                                |
 | [X보다 작은 수](https://www.acmicpc.net/problem/10871)       | [10871.js](./code/10871.js)                              | [곱셈](https://www.acmicpc.net/problem/2588)                 | [2588.js](./code/2588.js)                                |
-| [암호해독기](https://www.acmicpc.net/problem/17176)          | [17176.js](./code/17176.js)                              |                                                              |                                                          |
+| [암호해독기](https://www.acmicpc.net/problem/17176)          | [17176.js](./code/17176.js)                              | [사칙연산](https://www.acmicpc.net/problem/13420)            | [13420.js](./code/13420.js)                              |
 
