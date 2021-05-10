@@ -75,4 +75,5 @@
 | [X보다 작은 수](https://www.acmicpc.net/problem/10871)       | [10871.js](./code/10871.js)                              | [곱셈](https://www.acmicpc.net/problem/2588)                 | [2588.js](./code/2588.js)                                |
 | [암호해독기](https://www.acmicpc.net/problem/17176)          | [17176.js](./code/17176.js)                              | [사칙연산](https://www.acmicpc.net/problem/13420)            | [13420.js](./code/13420.js)                              |
 | [히든 넘버](https://www.acmicpc.net/problem/8595)            | [8595.js](./code/8595.js)                                | [대충 더해](https://www.acmicpc.net/problem/8949)            | [8949.js](./code/8949.js)                                |
+| [자기복제수](https://www.acmicpc.net/problem/2028)           | [2028.js](./code/2028.js)                                | [덧셈과 곱셈](https://www.acmicpc.net/problem/14579)         | [14579.js](./code/14579.js)                              |
 
