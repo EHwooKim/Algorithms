@@ -80,4 +80,5 @@
 | [알파벳 전부 쓰기](https://www.acmicpc.net/problem/11091)    | [11091.js](./code/11091.js)                              | [도비의 영어공부](https://www.acmicpc.net/problem/2386)      | [2386.js](./code/2386.js)                                |
 | [추월](https://www.acmicpc.net/problem/2002)                 | [2002.js](./code/2002.js)                                | [섬의 개수](https://www.acmicpc.net/problem/4963)            | [4963.js](./code/4963.js)                                |
 | [인생 점수](https://www.acmicpc.net/problem/15351)           | [15351.js](./code/15351.js)                              | [줄임말 만들기](https://www.acmicpc.net/problem/3181)        | [3181.js](./code/3181.js)                                |
+| [평균 점수](https://www.acmicpc.net/problem/10039)           | [10039.js](./code/10039.js)                              |                                                              |                                                          |
 
