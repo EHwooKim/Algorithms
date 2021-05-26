@@ -81,5 +81,5 @@
 | [추월](https://www.acmicpc.net/problem/2002)                 | [2002.js](./code/2002.js)                                | [섬의 개수](https://www.acmicpc.net/problem/4963)            | [4963.js](./code/4963.js)                                |
 | [인생 점수](https://www.acmicpc.net/problem/15351)           | [15351.js](./code/15351.js)                              | [줄임말 만들기](https://www.acmicpc.net/problem/3181)        | [3181.js](./code/3181.js)                                |
 | [평균 점수](https://www.acmicpc.net/problem/10039)           | [10039.js](./code/10039.js)                              | [주사위 세개](https://www.acmicpc.net/problem/2480)          | [2480.js](./code/2480.js)                                |
-| [똚](https://www.acmicpc.net/problem/11383)                  | [11383.js](./code/11383.js)                              |                                                              |                                                          |
+| [똚](https://www.acmicpc.net/problem/11383)                  | [11383.js](./code/11383.js)                              | [안전 영역](https://www.acmicpc.net/problem/2468)            | [2468.js](./code/2468.js)                                |
 
