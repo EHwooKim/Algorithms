@@ -84,4 +84,5 @@
 | [똚](https://www.acmicpc.net/problem/11383)                  | [11383.js](./code/11383.js)                              | [안전 영역](https://www.acmicpc.net/problem/2468)            | [2468.js](./code/2468.js)                                |
 | [로봇 청소기](https://www.acmicpc.net/problem/14503)         | [14503.js](./code/14503.js)                              | [뱀](https://www.acmicpc.net/problem/3190)                   | [3190.js](./code/3190.js)                                |
 | [BABBA](https://www.acmicpc.net/problem/9625)                | [9625.js](./code/9625.js)                                | [NN](https://www.acmicpc.net/problem/11944)                  | [11944.js](./code/11944.js)                              |
+| [전화번호 목록](https://www.acmicpc.net/problem/5052)        | [5052.js](./code/5052.js)                                |                                                              |                                                          |
 
