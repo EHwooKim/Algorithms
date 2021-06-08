@@ -85,5 +85,5 @@
 | [로봇 청소기](https://www.acmicpc.net/problem/14503)         | [14503.js](./code/14503.js)                              | [뱀](https://www.acmicpc.net/problem/3190)                   | [3190.js](./code/3190.js)                                |
 | [BABBA](https://www.acmicpc.net/problem/9625)                | [9625.js](./code/9625.js)                                | [NN](https://www.acmicpc.net/problem/11944)                  | [11944.js](./code/11944.js)                              |
 | [전화번호 목록](https://www.acmicpc.net/problem/5052)        | [5052.js](./code/5052.js)                                | [차이를 최대로](https://www.acmicpc.net/problem/10819)       | [10819.js](./code/10819.js)                              |
-| [베스트 샐러](https://www.acmicpc.net/problem/1302)          | [1302.js](./code/1302.js)                                |                                                              |                                                          |
+| [베스트 샐러](https://www.acmicpc.net/problem/1302)          | [1302.js](./code/1302.js)                                | [한수](https://www.acmicpc.net/problem/1065)                 | [1065.js](./code/1065.js)                                |
 
